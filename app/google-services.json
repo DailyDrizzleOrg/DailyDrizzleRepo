@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133583044385",
+    "firebase_url": "https://dailydrizzle-4b940.firebaseio.com",
+    "project_id": "dailydrizzle-4b940",
+    "storage_bucket": "dailydrizzle-4b940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133583044385:android:f39c4f1b0562ebba044860",
+        "android_client_info": {
+          "package_name": "com.project.dailydrizzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133583044385-06ogo0hm9cvsbaj5c5g43n7bvvi4di7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.dailydrizzle",
+            "certificate_hash": "8b36427d535a405517206081aaac2bc19c63e056"
+          }
+        },
+        {
+          "client_id": "133583044385-ftjmt5625v788sd233gomh4pfdqi8rid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Hf8Xaa-UhXp5ra3j8itP-bErQQXtGgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133583044385-ftjmt5625v788sd233gomh4pfdqi8rid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

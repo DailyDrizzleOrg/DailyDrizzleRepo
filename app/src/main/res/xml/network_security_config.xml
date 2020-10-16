@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+
+
+   <!-- <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">peridot.streamguys.com</domain>
+    </domain-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">as-hls-ww-live.bbcfmt.s.llnwi.net</domain>
+    </domain-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">a.files.bbci.co.uk</domain>
+    </domain-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">vividhbharati-lh.akamaihd.net</domain>
+    </domain-config>-->
+</network-security-config>

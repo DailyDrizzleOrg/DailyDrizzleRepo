@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD10354</color>
+    <color name="colorPrimaryDark">#D10354</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorItem">#FFF8C5D9</color>
+
+    <color name="colorSplash">#ff0266</color>
+
+    <color name="colorTabText">#b9b2c3</color>
+    <color name="colorTabTextSelected">#f63b7f</color>
+    <color name="colorTitleBackground">#99000000</color>
+
+    <!--swipe down refresh animation color-->
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="red">#ff0015</color>
+    <color name="colorBackground">#FBF2F5</color>
+    <color name="colorText">#FFFBAEC9</color>
+
+    <color name="colorIcon">#757575</color>
+</resources>

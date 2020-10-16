@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DailyDrizzle</string>
+    <string name="add_samples">Add samples</string>
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="something_went_wrong">Oops something went wrong..</string>
+    <string name="more">More</string>
+    <string name="app_id">4C35629F</string>
+    <string name="cast_context_error">Failed to get Cast context. Try updating Google Play Services and restart the app.</string>
+    <string name="media_route_menu_title">Cast</string>
+
+    <string name="error_unsupported_video">Media includes video tracks, but none are playable by this device</string>
+
+    <string name="error_unsupported_audio">Media includes audio tracks, but none are playable by this device</string>
+
+    <string name="web_client_id">133583044385-ftjmt5625v788sd233gomh4pfdqi8rid.apps.googleusercontent.com</string>
+</resources>
