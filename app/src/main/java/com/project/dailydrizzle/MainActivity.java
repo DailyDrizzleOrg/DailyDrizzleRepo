@@ -36,9 +36,7 @@ import java.util.ArrayList;
 import static com.project.dailydrizzle.models.DemoUtil.MIME_TYPE_SS;
 import static com.project.dailydrizzle.models.DemoUtil.MIME_TYPE_VIDEO_MP4;
 
-public class MainActivity extends AppCompatActivity
-        implements OnItemClickListenerVideo {
-
+public class MainActivity extends AppCompatActivity implements OnItemClickListenerVideo {git
     private PlayerView localPlayerView;
     private PlayerControlView castControlView;
     private PlayerManager playerManager;
